@@ -1,0 +1,37 @@
+1.
+# Relational and Equality Operators
+a=30
+b=20
+if a==b:
+  print('a is equal to b')
+else:
+  print('a and b are not equal')
+2. 
+import math
+print(" Program to demonstrate the use of Pyton library-")
+num=121.121
+print(math.sqrt(num))
+print(math.ceil(num))
+print(math.floor(num))
+
+3. # Relational and Equality Operators
+a=30
+b=20
+if a!=b:
+  print('a is not equal to b')
+else:
+  print('a and b are equal')
+
+4. # Print the square of first 10 numbers ( 1 to 10)
+for i in range(1,10):
+  print(i*i)
+
+5. # Print the series of first 10 even numbers ( 2 to 20)
+for i in range(2,20,2): 
+     print(i)
+
+6. # Print the series of first 10 even numbers in reverse ( 2 to 20)
+for i in range(2,20,-2): 
+     print(i)
+
+
